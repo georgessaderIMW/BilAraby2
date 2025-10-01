@@ -1,11 +1,12 @@
-/Build/*.js.br
-  Content-Type: application/javascript
-  Content-Encoding: br
-
-/Build/*.data.br
+/Build/du.data.br
   Content-Type: application/octet-stream
   Content-Encoding: br
 
-/Build/*.wasm.br
+/Build/du.framework.js.br
+  Content-Type: application/javascript
+  Content-Encoding: br
+
+/Build/du.wasm.br
   Content-Type: application/wasm
   Content-Encoding: br
+
